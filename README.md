@@ -1,1 +1,1 @@
-'This is alx-zero_day project' 
+'This is the main project file' 
